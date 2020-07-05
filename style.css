@@ -6,8 +6,10 @@ body {
 /* ------------------ */
 .main {
   background-color: #eaf6f6;
-  height: 753px;
+  height: 47.0625rem;
 }
+/* ------------------ mountain ----------------- */
+
 /* ------------------ heading 1 ----------------- */
 .head-1 {
   margin-top: 0px;
@@ -27,7 +29,6 @@ body {
   color: #66bfbf;
   font-size: 3rem;
 }
-/* ------------------ mountain ----------------- */
 .mountain {
   position: relative;
   top: 4.375rem;
@@ -60,8 +61,8 @@ body {
 }
 /* ------------------ */
 .lst {
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 3.125rem;
+  padding-bottom: 3.125rem;
   background-color: #f4f4f4;
   font-family: "Sahitya", serif;
 }
@@ -79,25 +80,25 @@ body {
   left: 5.625rem;
   top: 18.75rem;
 }
+/* ------------------ mountain ----------------- */
+
 /* ------------------ main breakers ----------------- */
 .a {
-  margin: 16px 0px 16px 0px;
+  padding: 0.5rem 0.5rem 0.5rem 0.5rem;
   border-style: none;
   border-top-style: dotted;
   border-color: gray;
-  border-width: 5px;
+  border-width: 0.3125rem;
   width: 5%;
-  position: relative;
-  left: 45.3125rem;
+  margin: auto;
 }
 
-.b{
+.b {
   border-style: none;
   border-top-style: dotted;
   border-color: gray;
-  border-width:0.3125rem;
+  border-width: 0.3125rem;
   width: 5%;
-  
 }
 
 /* ------------------ buttons ----------------- */
