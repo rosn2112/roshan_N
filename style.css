@@ -1,0 +1,295 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: sans-serif;
+}
+/* ------------------ */
+.main {
+  background-color: #eaf6f6;
+  height: 753px;
+}
+/* ------------------ clouds ----------------- */
+.top {
+  padding: 30px 30px 30px 30px;
+  position: absolute;
+  right: 200px;
+  top: 105px;
+}
+
+.bottom {
+  padding: 30px 30px 30px 30px;
+  position: absolute;
+  left: 90px;
+  top: 300px;
+}
+/* ------------------ mountain ----------------- */
+
+/* ------------------ heading 1 ----------------- */
+.head-1 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 20px;
+  padding-top: 80px;
+  font-family: "Pacifico", cursive;
+  font-size: 4rem;
+  color: #66bfbf;
+}
+/* ------------------ heading 2 ----------------- */
+.head-2 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 20px 40px 20px 40px;
+  font-family: "Sahitya", serif;
+  color: #66bfbf;
+  font-size: 3rem;
+}
+.mountain {
+  position: relative;
+  top: 70px;
+}
+
+/* ------------------ */
+.middle {
+  font-family: "Sahitya", serif;
+}
+.middle-1 {
+  padding-top: 1.025rem;
+  padding-bottom: 1.625rem;
+  width: 75%;
+  margin: auto;
+}
+.middle-2 {
+  padding-top: 1.825rem;
+  padding-bottom: 4.825rem;
+  width: 75%;
+  margin: auto;
+}
+
+.middle-3 {
+  height: 18.75rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  font-family: "Sahitya", serif;
+  width: 75%;
+  margin: auto;
+}
+/* ------------------ */
+.lst {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #f4f4f4;
+  font-family: "Sahitya", serif;
+}
+/* ------------------ clouds ----------------- */
+.top {
+  padding: 30px 30px 30px 30px;
+  position: absolute;
+  right: 200px;
+  top: 105px;
+}
+
+.bottom {
+  padding: 30px 30px 30px 30px;
+  position: absolute;
+  left: 90px;
+  top: 300px;
+}
+/* ------------------ mountain ----------------- */
+
+/* ------------------ main breakers ----------------- */
+.a {
+  margin: 16px 0px 16px 0px;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: gray;
+  border-width: 5px;
+  width: 5%;
+  position: relative;
+  left: 45.3125rem;
+}
+
+/* ------------------ buttons ----------------- */
+.WhatsApp {
+  -moz-box-shadow: 0px 1px 0px 0px #fff6af;
+  -webkit-box-shadow: 0px 1px 0px 0px #fff6af;
+  box-shadow: 0px 1px 0px 0px #fff6af;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0.05, #ffec64),
+    color-stop(1, #ffab23)
+  );
+  background: -moz-linear-gradient(center top, #ffec64 5%, #ffab23 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffec64', endColorstr='#ffab23');
+  background-color: #ffec64;
+  -webkit-border-top-left-radius: 41px;
+  -moz-border-radius-topleft: 41px;
+  border-top-left-radius: 41px;
+  -webkit-border-top-right-radius: 41px;
+  -moz-border-radius-topright: 41px;
+  border-top-right-radius: 41px;
+  -webkit-border-bottom-right-radius: 41px;
+  -moz-border-radius-bottomright: 41px;
+  border-bottom-right-radius: 41px;
+  -webkit-border-bottom-left-radius: 41px;
+  -moz-border-radius-bottomleft: 41px;
+  border-bottom-left-radius: 41px;
+  text-indent: 0;
+  display: inline-block;
+  color: #333333;
+  font-family: arial;
+  font-size: 15px;
+  font-weight: bold;
+  font-style: normal;
+  height: 50px;
+  line-height: 50px;
+  width: 140px;
+  text-decoration: none;
+  text-align: center;
+  text-shadow: 0px 1px 0px #ffee66;
+}
+.WhatsApp:hover {
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0.05, #ffab23),
+    color-stop(1, #ffec64)
+  );
+  background: -moz-linear-gradient(center top, #ffab23 5%, #ffec64 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffab23', endColorstr='#ffec64');
+  background-color: #ffab23;
+}
+.WhatsApp:active {
+  position: relative;
+  top: 1px;
+}
+
+.Instagram {
+  -moz-box-shadow: 0px 1px 0px 0px #fff6af;
+  -webkit-box-shadow: 0px 1px 0px 0px #fff6af;
+  box-shadow: 0px 1px 0px 0px #fff6af;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0.05, #ffec64),
+    color-stop(1, #ffab23)
+  );
+  background: -moz-linear-gradient(center top, #ffec64 5%, #ffab23 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffec64', endColorstr='#ffab23');
+  background-color: #ffec64;
+  -webkit-border-top-left-radius: 41px;
+  -moz-border-radius-topleft: 41px;
+  border-top-left-radius: 41px;
+  -webkit-border-top-right-radius: 41px;
+  -moz-border-radius-topright: 41px;
+  border-top-right-radius: 41px;
+  -webkit-border-bottom-right-radius: 41px;
+  -moz-border-radius-bottomright: 41px;
+  border-bottom-right-radius: 41px;
+  -webkit-border-bottom-left-radius: 41px;
+  -moz-border-radius-bottomleft: 41px;
+  border-bottom-left-radius: 41px;
+  text-indent: 0;
+  display: inline-block;
+  color: #333333;
+  font-family: arial;
+  font-size: 15px;
+  font-weight: bold;
+  font-style: normal;
+  height: 50px;
+  line-height: 50px;
+  width: 140px;
+  text-decoration: none;
+  text-align: center;
+  text-shadow: 0px 1px 0px #ffee66;
+}
+.Instagram:hover {
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0.05, #ffab23),
+    color-stop(1, #ffec64)
+  );
+  background: -moz-linear-gradient(center top, #ffab23 5%, #ffec64 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffab23', endColorstr='#ffec64');
+  background-color: #ffab23;
+}
+.Instagram:active {
+  position: relative;
+  top: 1px;
+}
+
+/* --------------------------------------------------images-------------------------------------------------- */
+.me {
+  width: 200px;
+  float: left;
+  padding: 0rem 3.5rem 0rem 2rem;
+}
+
+.scientist {
+  width: 200px;
+  float: right;
+  padding: 0rem 2rem 0rem 2rem;
+}
+
+.programming {
+  width: 250px;
+  float: left;
+  padding: 0rem 2rem 0rem 2rem;
+}
+
+.body-body {
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 500;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+.body-head {
+  font-size: 2rem;
+  color: #6eb6ff;
+}
+
+.body-head-1 {
+  font-size: 4rem;
+  padding-bottom: 2rem;
+  color: #4ad9ec;
+}
+
+.body-body2 {
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 500;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+
+.body-head3 {
+  padding-top: 2rem;
+}
+
+.body-head4 {
+  font-size: 3rem;
+  margin-top: 0rem;
+  color: #4ad9ec;
+}
+
+.body-head6 {
+  font-size: 2.5rem;
+  color: #6eb6ff;
+}
+
+.body-head-2 {
+  font-size: 3.5rem;
+  color: #4ad9ec;
+}
+
+.cpyrht {
+  padding: 0rem 0rem 0rem 0rem;
+  margin: 0rem;
+}
